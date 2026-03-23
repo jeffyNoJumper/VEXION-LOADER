@@ -1,0 +1,14 @@
+node_modules/
+loader/node_modules/
+.vs/
+loader/.vs/
+.env
+loader/.env
+*.log
+
+loader/VEX ALL IN-ONE LOADER/
+loader/VEXION ADMIN PANEL/
+loader/build/
+
+VEXION ALL-IN-ONE Setup *.exe
+*.blockmap
